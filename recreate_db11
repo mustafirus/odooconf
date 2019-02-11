@@ -1,0 +1,3 @@
+#!/bin/sh
+sudo -u postgres dropdb test11
+#sudo -u postgres createdb test11 -O golubev
